@@ -1,4 +1,4 @@
-let tables = [
+const tables = [
     {
         name: 'Tony',
         phone: '800-800-8553',
@@ -7,4 +7,9 @@ let tables = [
     }
 ];
 
+
+// exporting reservation list array
 module.exports = tables;
+
+
+

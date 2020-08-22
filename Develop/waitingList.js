@@ -9,5 +9,5 @@ const waitingListArr = [
 ];
 
 
-
+// exporting watinglist array
 module.exports = waitingListArr;
