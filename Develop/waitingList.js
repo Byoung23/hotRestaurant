@@ -1,5 +1,5 @@
 
-const tableArr = [
+const waitingListArr = [
 
     {
         customerName: 'SomeOne',
@@ -10,4 +10,4 @@ const tableArr = [
 
 
 
-module.exports = tableArr;
+module.exports = waitingListArr;
