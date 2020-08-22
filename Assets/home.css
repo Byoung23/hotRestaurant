@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap');
+* {
+    font-family: 'Amiri', serif;
+}
+body {
+    background-color: white;
+    text-align: center;
+}
